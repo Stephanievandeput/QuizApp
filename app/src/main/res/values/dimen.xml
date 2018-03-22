@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textview_padding">8dp</dimen>
+    <dimen name="imageview_padding">8dp</dimen>
+    <dimen name="radiobutton_padding">4dp</dimen>
+    <dimen name="checkbox_padding">8dp</dimen>
+    <dimen name="edittext_padding">16dp</dimen>
+    <dimen name="button_padding">20dp</dimen>
+    <dimen name="text_size_question">20sp</dimen>
+    <dimen name="text_size_title">26sp</dimen>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cars Quiz App</string>
+    <string name="title">Disney Cars Quiz</string>
+    <string name="buttonName">Get your score!</string>
+    <string name="questionOne">Who do you see in the picture above?</string>
+    <string name="questionOneAnswerOne">Lightning McQueen</string>
+    <string name="questionOneAnswerTwo">Cruz Ramirez</string>
+    <string name="questionOneAnswerThree">Jackson Storm</string>
+
+    <string name="questionTwo">What happens to Mack when he drives to LA with Lightning?</string>
+    <string name="questionTwoAnswerOne">He falls asleep</string>
+    <string name="questionTwoAnswerTwo">He loses his tire</string>
+    <string name="questionTwoAnswerThree">He gets teased by other cars</string>
+
+    <string name="questionThree">Where does Lightning end up after he loses Mack?</string>
+    <string name="questionThreeAnswerOne">Radiator Hills</string>
+    <string name="questionThreeAnswerTwo">Radiator Springs</string>
+    <string name="questionThreeAnswerThree">Radiator City</string>
+
+    <string name="questionFour">Which city does Lightning visit for the Grand Prix race? </string>
+    <string name="questionFourAnswerOne">Copenhagen</string>
+    <string name="questionFourAnswerTwo">Tokyo</string>
+    <string name="questionFourAnswerThree">Amsterdam</string>
+
+    <string name="questionFive">Who gets abducted by Finn? </string>
+    <string name="questionFiveAnswerOne">Mater</string>
+    <string name="questionFiveAnswerTwo">Lightning McQueen</string>
+    <string name="questionFiveAnswerThree">Cruz Ramirez</string>
+
+    <string name="questionSix">From who did Lightning McQueen lose a race? </string>
+    <string name="questionSixAnswerOne">Francesco</string>
+    <string name="questionSixAnswerTwo">Jackson Storm</string>
+    <string name="questionSixAnswerThree">Cruz Ramirez</string>
+
+    <string name="questionSeven">Who is hidden in the picture above? </string>
+    <string name="hint">Type the name here </string>
+    <string name="score">Press the submit button to get your score!</string>
+</resources>
